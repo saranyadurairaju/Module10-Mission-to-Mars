@@ -1,0 +1,15 @@
+.btn:hover {
+  background-color: #1e251f;
+  color: white;
+}
+h4 {
+  text-decoration: underline;
+}
+@media screen and (min-width: 480px) {
+  #leftsidebar {width: 200px; float: left;}
+  #main {margin-left: 216px;}
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
